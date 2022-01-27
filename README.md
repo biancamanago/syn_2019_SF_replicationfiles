@@ -7,7 +7,7 @@
 
 # Groups, Inequality, and Synergy
 
-# Experimental Instructions
+## Experimental Instructions
 In the experiment, there were two separate conditions. Each condition received a different prompt and also, different instructions and questionnaires throughout the study. 
 
 Here are the files for each condition:
@@ -23,7 +23,7 @@ Here are the files for each condition:
 - Time 3 Questionnaire
 
 
-# Tasks
+## Tasks
 Each session, participants interacted on a task. These are the tasks, including the individual forms, group forms, and the expert rankings (for calculation).
 
 ### Task 1
