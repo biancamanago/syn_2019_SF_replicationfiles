@@ -3,7 +3,7 @@
 ## Experimental Manipulations
 In the experiment, there were two separate conditions. Each condition received a different prompt and also, different instructions and questionnaires throughout the study. The script for the main intervention is available in the **_intervention_** folder.
 
-The questionnaires were part of the manipulation. They are all available in the **_questionnaires_** folder. The questionnaires were different each session, the s# indicates if they were from the 1st, 2nd, or 3rd session.
+The questionnaires were part of the manipulation. They are all available in the **_questionnaires_** folder. The questionnaires were different each session, the s_ indicates if the questionnaires were for the 1st, 2nd, or 3rd session.
 
 
 ## Tasks
