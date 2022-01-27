@@ -26,18 +26,18 @@ Here are the files for each condition:
 ## Tasks
 Each session, participants interacted on a task. These are the tasks, including the individual forms, group forms, and the expert rankings (for calculation).
 
-### Task 1
-- Individual form
-- Group form
-- Expert ranking
+### Task 1 - Moon
+- [Individual form]
+- [Group form]
+- [Expert ranking]
 
-### Task 2
-- Individual form
-- Group form
-- Expert ranking
+### Task 2 - Sea
+- [Individual form]
+- [Group form]
+- [Expert ranking]
 
-### Task 3
-- Individual form
-- Group form
-- Expert ranking
+### Task 3 - Desert
+- [Individual form]
+- [Group form]
+- [Expert ranking]
 
